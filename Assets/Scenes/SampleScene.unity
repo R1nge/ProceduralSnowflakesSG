@@ -619,7 +619,7 @@ ParticleSystemRenderer:
   m_AllowRoll: 1
   m_FreeformStretching: 0
   m_RotateWithStretchDirection: 1
-  m_VertexStreams: 0001030422
+  m_VertexStreams: 000103042022
   m_Mesh: {fileID: 0}
   m_Mesh1: {fileID: 0}
   m_Mesh2: {fileID: 0}
@@ -4773,7 +4773,7 @@ ParticleSystem:
   CustomDataModule:
     enabled: 1
     mode0: 1
-    vectorComponentCount0: 4
+    vectorComponentCount0: 2
     color0:
       serializedVersion: 2
       minMaxState: 0
@@ -4840,9 +4840,9 @@ ParticleSystem:
     colorLabel0: Color
     vector0_0:
       serializedVersion: 2
-      minMaxState: 0
-      scalar: 1
-      minScalar: 0
+      minMaxState: 3
+      scalar: 10
+      minScalar: 5
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -4894,9 +4894,9 @@ ParticleSystem:
     vectorLabel0_0: X
     vector0_1:
       serializedVersion: 2
-      minMaxState: 0
-      scalar: 1
-      minScalar: 0
+      minMaxState: 3
+      scalar: 8
+      minScalar: 5
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -4948,9 +4948,9 @@ ParticleSystem:
     vectorLabel0_1: Y
     vector0_2:
       serializedVersion: 2
-      minMaxState: 0
-      scalar: 1
-      minScalar: 0
+      minMaxState: 3
+      scalar: 10
+      minScalar: 5
       maxCurve:
         serializedVersion: 2
         m_Curve:
